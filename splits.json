@@ -1,0 +1,29 @@
+{
+  "seed": 42,
+  "train": [
+    {
+      "id": "volume-002",
+      "image": "data\\Task03_Liver\\imagesTr\\volume-002.nii.gz",
+      "label": "data\\Task03_Liver\\labelsTr\\volume-002.nii.gz"
+    },
+    {
+      "id": "volume-001",
+      "image": "data\\Task03_Liver\\imagesTr\\volume-001.nii.gz",
+      "label": "data\\Task03_Liver\\labelsTr\\volume-001.nii.gz"
+    }
+  ],
+  "val": [
+    {
+      "id": "volume-003",
+      "image": "data\\Task03_Liver\\imagesTr\\volume-003.nii.gz",
+      "label": "data\\Task03_Liver\\labelsTr\\volume-003.nii.gz"
+    }
+  ],
+  "test": [
+    {
+      "id": "volume-000",
+      "image": "data\\Task03_Liver\\imagesTr\\volume-000.nii.gz",
+      "label": "data\\Task03_Liver\\labelsTr\\volume-000.nii.gz"
+    }
+  ]
+}

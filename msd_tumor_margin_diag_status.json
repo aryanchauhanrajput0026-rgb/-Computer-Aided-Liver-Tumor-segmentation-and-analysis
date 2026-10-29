@@ -1,0 +1,31 @@
+{
+  "status": "completed",
+  "dataset_name": "MSD Task03 Liver",
+  "split_file": "data\\msd_task03_liver_splits.json",
+  "total_epochs": 1,
+  "completed_epochs": 1,
+  "device": "cpu",
+  "batch_size": 1,
+  "slices_per_case": 4,
+  "patch_size": 256,
+  "learning_rate": 0.0001,
+  "class_weights": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "tumor_margin_weight": 0.1,
+  "tumor_margin": 1.0,
+  "initialize_checkpoint": "checkpoints\\best_model_msd_extended.pt",
+  "started_at_unix": 1793020024.3552692,
+  "latest_train_loss": 0.9438510168547509,
+  "latest_train_tumor_dice": 5.285356391553549e-12,
+  "latest_val_loss": 0.8385549628077761,
+  "latest_val_tumor_dice": 1.8463470024215515e-11,
+  "latest_val_tumor_predicted_pixels": 0,
+  "latest_val_tumor_target_pixels": 54161,
+  "best_val_loss": 0.8385549628077761,
+  "best_val_tumor_dice": 1.8463470024215515e-11,
+  "checkpoint": "checkpoints\\best_model_msd_tumor_margin_diag.pt",
+  "elapsed_seconds": 449.64099999994505
+}

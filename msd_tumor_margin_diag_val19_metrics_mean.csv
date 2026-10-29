@@ -1,0 +1,11 @@
+,mean
+liver_dice,0.6238597801207062
+liver_iou,0.4754491316116049
+liver_precision,0.518936140876421
+liver_recall_sensitivity,0.8286435713641427
+liver_specificity,0.9785322291354314
+tumor_dice,0.10526315789473684
+tumor_iou,0.10526315789473684
+tumor_precision,0.10526315789473684
+tumor_recall_sensitivity,0.10526315789473684
+tumor_specificity,1.0

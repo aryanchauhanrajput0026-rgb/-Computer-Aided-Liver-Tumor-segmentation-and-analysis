@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/Task03_Liver/
+data/liver-tumor-subset/
+data/liver-tumor-subset.zip
+checkpoints/*.pt
+outputs/*
+!.gitkeep

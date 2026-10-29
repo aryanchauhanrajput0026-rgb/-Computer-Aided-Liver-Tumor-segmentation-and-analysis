@@ -1,0 +1,2 @@
+epoch,train_loss,train_liver_dice,train_tumor_dice,train_tumor_predicted_pixels,train_tumor_target_pixels,val_loss,val_liver_dice,val_tumor_dice,val_tumor_predicted_pixels,val_tumor_target_pixels
+1,1.6543749421834946,0.7615503496458135,5.285356391553549e-12,0,189202,1.383169338107109,0.6029471177898508,1.8463470024215515e-11,0,54161

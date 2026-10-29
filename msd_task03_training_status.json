@@ -1,0 +1,16 @@
+{
+  "status": "completed",
+  "dataset_name": "MSD Task03 Liver",
+  "split_file": "data\\msd_task03_liver_splits.json",
+  "total_epochs": 1,
+  "completed_epochs": 1,
+  "device": "cpu",
+  "batch_size": 1,
+  "slices_per_case": 4,
+  "patch_size": 256,
+  "learning_rate": 0.001,
+  "latest_train_loss": 1.2306316860818438,
+  "latest_val_loss": 1.0537735662962262,
+  "best_val_loss": 1.0537735662962262,
+  "checkpoint": "checkpoints\\best_model_msd.pt"
+}

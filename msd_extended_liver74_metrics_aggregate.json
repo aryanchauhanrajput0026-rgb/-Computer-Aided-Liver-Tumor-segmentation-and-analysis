@@ -1,0 +1,36 @@
+{
+  "dataset_name": "MSD Task03 Liver",
+  "partition": "val",
+  "split_file": "data\\msd_task03_liver_splits.json",
+  "checkpoint": "checkpoints\\best_model_msd_extended.pt",
+  "evaluated_case_count": 1,
+  "empty_ground_truth_tumor_case_count": 0,
+  "empty_mask_convention": "binary_metrics assigns Dice, IoU, precision, sensitivity, and specificity 1.0 when both relevant prediction/target sets are empty; empty ground-truth tumor cases are flagged per case and included in macro means.",
+  "macro_mean": {
+    "liver_dice": 0.8047163306635225,
+    "liver_iou": 0.6732429726160623,
+    "liver_precision": 0.7161041429617312,
+    "liver_recall_sensitivity": 0.9183555159020255,
+    "liver_specificity": 0.9905827156153767,
+    "tumor_dice": 2.692224854619133e-13,
+    "tumor_iou": 2.692224854619133e-13,
+    "tumor_precision": 1.0,
+    "tumor_recall_sensitivity": 2.692224854619133e-13,
+    "tumor_specificity": 1.0
+  },
+  "macro_median": {
+    "liver_dice": 0.8047163306635225,
+    "liver_iou": 0.6732429726160623,
+    "liver_precision": 0.7161041429617312,
+    "liver_recall_sensitivity": 0.9183555159020255,
+    "liver_specificity": 0.9905827156153767,
+    "tumor_dice": 2.692224854619133e-13,
+    "tumor_iou": 2.692224854619133e-13,
+    "tumor_precision": 1.0,
+    "tumor_recall_sensitivity": 2.692224854619133e-13,
+    "tumor_specificity": 1.0
+  },
+  "per_case_csv": "outputs\\msd_extended_liver74_metrics_by_patient.csv",
+  "preview_png": "outputs\\msd_extended_liver74_preview.png",
+  "inference_scope": "full volume for each selected case"
+}

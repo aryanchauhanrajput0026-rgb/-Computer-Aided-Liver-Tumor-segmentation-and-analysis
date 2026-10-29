@@ -1,0 +1,573 @@
+{
+  "dataset_path": "data\\Task03_Liver",
+  "archive_validation": {
+    "status": "not verified in this inspection run",
+    "expected_md5": "78a7325e437bda4aacc06eb9b314000e"
+  },
+  "file_count": 8,
+  "total_file_bytes": 460363,
+  "documentation_files": [],
+  "file_manifest": [
+    {
+      "path": "data\\Task03_Liver\\imagesTr\\volume-000.nii.gz",
+      "size_bytes": 113625
+    },
+    {
+      "path": "data\\Task03_Liver\\imagesTr\\volume-001.nii.gz",
+      "size_bytes": 113583
+    },
+    {
+      "path": "data\\Task03_Liver\\imagesTr\\volume-002.nii.gz",
+      "size_bytes": 113639
+    },
+    {
+      "path": "data\\Task03_Liver\\imagesTr\\volume-003.nii.gz",
+      "size_bytes": 113596
+    },
+    {
+      "path": "data\\Task03_Liver\\labelsTr\\volume-000.nii.gz",
+      "size_bytes": 1480
+    },
+    {
+      "path": "data\\Task03_Liver\\labelsTr\\volume-001.nii.gz",
+      "size_bytes": 1480
+    },
+    {
+      "path": "data\\Task03_Liver\\labelsTr\\volume-002.nii.gz",
+      "size_bytes": 1480
+    },
+    {
+      "path": "data\\Task03_Liver\\labelsTr\\volume-003.nii.gz",
+      "size_bytes": 1480
+    }
+  ],
+  "file_formats": {
+    ".nii.gz": 8
+  },
+  "nifti_volume_count": 8,
+  "nifti_image_count": 4,
+  "nifti_mask_count": 4,
+  "two_dimensional_image_inventory_count": 0,
+  "valid_nifti_pair_count": 0,
+  "nifti_file_inspections": [
+    {
+      "path": "data\\Task03_Liver\\imagesTr\\volume-000.nii.gz",
+      "role": "image",
+      "case_candidate": "000",
+      "shape": [
+        64,
+        64,
+        8
+      ],
+      "spacing": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "spatial_units": "unknown",
+      "orientation": [
+        "R",
+        "A",
+        "S"
+      ],
+      "affine": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "data_type": "float32",
+      "label_values": null,
+      "non_integer_values": false
+    },
+    {
+      "path": "data\\Task03_Liver\\imagesTr\\volume-001.nii.gz",
+      "role": "image",
+      "case_candidate": "001",
+      "shape": [
+        64,
+        64,
+        8
+      ],
+      "spacing": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "spatial_units": "unknown",
+      "orientation": [
+        "R",
+        "A",
+        "S"
+      ],
+      "affine": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "data_type": "float32",
+      "label_values": null,
+      "non_integer_values": false
+    },
+    {
+      "path": "data\\Task03_Liver\\imagesTr\\volume-002.nii.gz",
+      "role": "image",
+      "case_candidate": "002",
+      "shape": [
+        64,
+        64,
+        8
+      ],
+      "spacing": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "spatial_units": "unknown",
+      "orientation": [
+        "R",
+        "A",
+        "S"
+      ],
+      "affine": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "data_type": "float32",
+      "label_values": null,
+      "non_integer_values": false
+    },
+    {
+      "path": "data\\Task03_Liver\\imagesTr\\volume-003.nii.gz",
+      "role": "image",
+      "case_candidate": "003",
+      "shape": [
+        64,
+        64,
+        8
+      ],
+      "spacing": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "spatial_units": "unknown",
+      "orientation": [
+        "R",
+        "A",
+        "S"
+      ],
+      "affine": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "data_type": "float32",
+      "label_values": null,
+      "non_integer_values": false
+    },
+    {
+      "path": "data\\Task03_Liver\\labelsTr\\volume-000.nii.gz",
+      "role": "label",
+      "case_candidate": "volume-000",
+      "shape": [
+        64,
+        64,
+        8
+      ],
+      "spacing": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "spatial_units": "unknown",
+      "orientation": [
+        "R",
+        "A",
+        "S"
+      ],
+      "affine": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "data_type": "uint8",
+      "label_values": [
+        0,
+        1,
+        2
+      ],
+      "non_integer_values": false
+    },
+    {
+      "path": "data\\Task03_Liver\\labelsTr\\volume-001.nii.gz",
+      "role": "label",
+      "case_candidate": "volume-001",
+      "shape": [
+        64,
+        64,
+        8
+      ],
+      "spacing": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "spatial_units": "unknown",
+      "orientation": [
+        "R",
+        "A",
+        "S"
+      ],
+      "affine": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "data_type": "uint8",
+      "label_values": [
+        0,
+        1,
+        2
+      ],
+      "non_integer_values": false
+    },
+    {
+      "path": "data\\Task03_Liver\\labelsTr\\volume-002.nii.gz",
+      "role": "label",
+      "case_candidate": "volume-002",
+      "shape": [
+        64,
+        64,
+        8
+      ],
+      "spacing": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "spatial_units": "unknown",
+      "orientation": [
+        "R",
+        "A",
+        "S"
+      ],
+      "affine": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "data_type": "uint8",
+      "label_values": [
+        0,
+        1,
+        2
+      ],
+      "non_integer_values": false
+    },
+    {
+      "path": "data\\Task03_Liver\\labelsTr\\volume-003.nii.gz",
+      "role": "label",
+      "case_candidate": "volume-003",
+      "shape": [
+        64,
+        64,
+        8
+      ],
+      "spacing": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "spatial_units": "unknown",
+      "orientation": [
+        "R",
+        "A",
+        "S"
+      ],
+      "affine": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "data_type": "uint8",
+      "label_values": [
+        0,
+        1,
+        2
+      ],
+      "non_integer_values": false
+    }
+  ],
+  "pairs": [],
+  "pairing_evidence": {
+    "matching_case_ids": [],
+    "exact_shape_and_affine_candidates": [
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-000.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-000.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-000.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-001.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-000.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-002.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-000.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-003.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-001.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-000.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-001.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-001.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-001.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-002.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-001.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-003.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-002.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-000.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-002.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-001.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-002.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-002.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-002.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-003.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-003.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-000.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-003.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-001.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-003.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-002.nii.gz"
+      },
+      {
+        "image": "data\\Task03_Liver\\imagesTr\\volume-003.nii.gz",
+        "mask": "data\\Task03_Liver\\labelsTr\\volume-003.nii.gz"
+      }
+    ]
+  },
+  "observed_mask_label_values": [
+    0,
+    1,
+    2
+  ],
+  "label_validation": {
+    "structural_label_values": [
+      0,
+      1,
+      2
+    ],
+    "semantic_mapping": "not verified; consult the dataset annotation documentation",
+    "training_ready": false
+  },
+  "unmatched_images": [
+    "data\\Task03_Liver\\imagesTr\\volume-000.nii.gz",
+    "data\\Task03_Liver\\imagesTr\\volume-001.nii.gz",
+    "data\\Task03_Liver\\imagesTr\\volume-002.nii.gz",
+    "data\\Task03_Liver\\imagesTr\\volume-003.nii.gz"
+  ],
+  "unmatched_labels": [
+    "data\\Task03_Liver\\labelsTr\\volume-000.nii.gz",
+    "data\\Task03_Liver\\labelsTr\\volume-001.nii.gz",
+    "data\\Task03_Liver\\labelsTr\\volume-002.nii.gz",
+    "data\\Task03_Liver\\labelsTr\\volume-003.nii.gz"
+  ],
+  "duplicate_case_ids": [],
+  "corrupted_or_invalid_pairs": [],
+  "unclassified_nifti_files": [],
+  "training_blockers": [
+    "No structurally valid paired 3D NIfTI volumes found.",
+    "Resolve unmatched, duplicate, or invalid image-mask pairs before splitting."
+  ]
+}

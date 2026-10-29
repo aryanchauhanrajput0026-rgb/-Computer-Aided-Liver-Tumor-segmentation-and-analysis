@@ -1,0 +1,28 @@
+{
+  "status": "completed",
+  "completed_cases": 19,
+  "total_cases": 19,
+  "completed_slices": 7675,
+  "total_slices": 7675,
+  "checkpoint": "checkpoints\\best_model_msd_extended.pt",
+  "checkpoint_sha256": "b622c352f49ffca498916be6477c7ee34fe08c00527996ce4c253f72519b87a9",
+  "thresholds": [
+    0.001,
+    0.002,
+    0.005,
+    0.01,
+    0.015,
+    0.02,
+    0.03,
+    0.05,
+    0.075,
+    0.1,
+    0.15,
+    0.2,
+    0.3333333333333333,
+    0.5
+  ],
+  "last_case": "liver_43",
+  "elapsed_seconds": 4972.9529999999795,
+  "aggregate_json": "outputs\\msd_extended_val19_threshold_analysis.json"
+}

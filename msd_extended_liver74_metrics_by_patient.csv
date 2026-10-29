@@ -1,0 +1,2 @@
+patient_id,ground_truth_tumor_empty,liver_dice,liver_iou,liver_precision,liver_recall_sensitivity,liver_specificity,tumor_dice,tumor_iou,tumor_precision,tumor_recall_sensitivity,tumor_specificity
+liver_74,False,0.8047163306635225,0.6732429726160623,0.7161041429617312,0.9183555159020255,0.9905827156153767,2.692224854619133e-13,2.692224854619133e-13,1.0,2.692224854619133e-13,1.0

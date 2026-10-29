@@ -1,0 +1,1612 @@
+{
+  "dataset_name": "MSD Task03 Liver",
+  "dataset_path": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver",
+  "seed": 42,
+  "validation_fraction": 0.15,
+  "selected_case_count": 131,
+  "semantic_label_mapping_confirmed_by_user": true,
+  "raw_label_map": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+  },
+  "train": [
+    {
+      "id": "liver_67",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_67.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_67.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_70",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_70.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_70.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_87",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_87.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_87.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_26",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_26.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_26.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_78",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_78.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_78.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_54",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_54.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_54.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_69",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_69.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_69.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_19",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_19.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_19.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_110",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_110.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_110.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_112",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_112.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_112.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_53",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_53.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_53.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_1",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_1.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_1.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_68",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_68.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_68.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_103",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_103.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_103.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_11",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_11.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_11.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_116",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_116.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_116.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_130",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_130.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_130.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_37",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_37.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_37.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_63",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_63.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_63.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_64",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_64.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_64.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_20",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_20.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_20.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_38",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_38.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_38.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_51",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_51.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_51.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_72",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_72.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_72.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_95",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_95.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_95.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_17",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_17.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_17.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_86",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_86.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_86.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_113",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_113.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_113.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_114",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_114.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_114.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_62",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_62.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_62.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_5",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_5.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_5.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_0",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_0.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_0.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_77",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_77.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_77.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_82",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_82.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_82.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_25",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_25.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_25.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_2",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_2.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_2.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_88",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_88.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_88.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_29",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_29.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_29.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_45",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_45.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_45.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_56",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_56.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_56.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_73",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_73.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_73.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_100",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_100.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_100.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_105",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_105.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_105.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_7",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_7.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_7.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_57",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_57.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_57.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_10",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_10.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_10.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_28",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_28.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_28.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_93",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_93.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_93.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_47",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_47.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_47.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_33",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_33.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_33.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_121",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_121.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_121.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_128",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_128.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_128.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_59",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_59.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_59.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_115",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_115.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_115.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_122",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_122.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_122.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_13",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_13.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_13.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_92",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_92.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_92.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_79",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_79.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_79.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_127",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_127.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_127.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_36",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_36.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_36.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_46",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_46.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_46.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_27",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_27.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_27.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_117",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_117.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_117.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_21",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_21.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_21.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_89",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_89.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_89.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_40",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_40.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_40.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_31",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_31.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_31.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_91",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_91.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_91.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_15",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_15.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_15.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_108",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_108.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_108.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_75",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_75.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_75.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_12",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_12.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_12.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_55",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_55.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_55.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_35",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_35.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_35.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_22",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_22.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_22.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_42",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_42.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_42.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_84",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_84.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_84.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_97",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_97.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_97.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_61",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_61.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_61.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_65",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_65.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_65.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_32",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_32.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_32.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_58",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_58.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_58.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_24",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_24.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_24.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_71",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_71.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_71.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_41",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_41.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_41.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_126",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_126.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_126.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_6",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_6.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_6.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_39",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_39.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_39.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_66",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_66.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_66.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_83",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_83.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_83.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_94",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_94.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_94.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_99",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_99.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_99.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_102",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_102.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_102.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_8",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_8.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_8.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_111",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_111.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_111.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_3",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_3.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_3.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_14",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_14.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_14.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_90",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_90.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_90.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_4",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_4.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_4.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_124",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_124.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_124.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_101",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_101.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_101.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_49",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_49.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_49.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_125",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_125.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_125.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_50",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_50.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_50.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_107",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_107.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_107.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_123",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_123.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_123.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_16",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_16.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_16.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_109",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_109.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_109.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_129",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_129.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_129.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_76",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_76.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_76.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_80",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_80.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_80.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_106",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_106.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_106.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    }
+  ],
+  "val": [
+    {
+      "id": "liver_118",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_118.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_118.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_60",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_60.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_60.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_120",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_120.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_120.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_18",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_18.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_18.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_34",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_34.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_34.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_23",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_23.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_23.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_104",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_104.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_104.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_85",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_85.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_85.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_81",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_81.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_81.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_44",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_44.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_44.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_119",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_119.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_119.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_96",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_96.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_96.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_74",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_74.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_74.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_98",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_98.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_98.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_48",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_48.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_48.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_9",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_9.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_9.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_52",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_52.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_52.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_30",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_30.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_30.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "id": "liver_43",
+      "image": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTr\\liver_43.nii.gz",
+      "label": "C:\\Users\\Aryan Chauhan\\OneDrive\\Desktop\\liver_tumor_segmentation_project (1)\\liver_tumor_segmentation_project\\data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\labelsTr\\liver_43.nii.gz",
+      "raw_label_map": {
+        "0": 0,
+        "1": 1,
+        "2": 2
+      }
+    }
+  ],
+  "test": [],
+  "external_test_source": "imagesTs",
+  "external_test_case_count": 70,
+  "external_test_images": [
+    {
+      "id": "liver_132",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_132.nii.gz"
+    },
+    {
+      "id": "liver_133",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_133.nii.gz"
+    },
+    {
+      "id": "liver_134",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_134.nii.gz"
+    },
+    {
+      "id": "liver_135",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_135.nii.gz"
+    },
+    {
+      "id": "liver_136",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_136.nii.gz"
+    },
+    {
+      "id": "liver_137",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_137.nii.gz"
+    },
+    {
+      "id": "liver_138",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_138.nii.gz"
+    },
+    {
+      "id": "liver_139",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_139.nii.gz"
+    },
+    {
+      "id": "liver_140",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_140.nii.gz"
+    },
+    {
+      "id": "liver_141",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_141.nii.gz"
+    },
+    {
+      "id": "liver_142",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_142.nii.gz"
+    },
+    {
+      "id": "liver_143",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_143.nii.gz"
+    },
+    {
+      "id": "liver_144",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_144.nii.gz"
+    },
+    {
+      "id": "liver_145",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_145.nii.gz"
+    },
+    {
+      "id": "liver_146",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_146.nii.gz"
+    },
+    {
+      "id": "liver_147",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_147.nii.gz"
+    },
+    {
+      "id": "liver_148",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_148.nii.gz"
+    },
+    {
+      "id": "liver_149",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_149.nii.gz"
+    },
+    {
+      "id": "liver_150",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_150.nii.gz"
+    },
+    {
+      "id": "liver_151",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_151.nii.gz"
+    },
+    {
+      "id": "liver_152",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_152.nii.gz"
+    },
+    {
+      "id": "liver_153",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_153.nii.gz"
+    },
+    {
+      "id": "liver_154",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_154.nii.gz"
+    },
+    {
+      "id": "liver_155",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_155.nii.gz"
+    },
+    {
+      "id": "liver_156",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_156.nii.gz"
+    },
+    {
+      "id": "liver_157",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_157.nii.gz"
+    },
+    {
+      "id": "liver_158",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_158.nii.gz"
+    },
+    {
+      "id": "liver_159",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_159.nii.gz"
+    },
+    {
+      "id": "liver_160",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_160.nii.gz"
+    },
+    {
+      "id": "liver_161",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_161.nii.gz"
+    },
+    {
+      "id": "liver_162",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_162.nii.gz"
+    },
+    {
+      "id": "liver_163",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_163.nii.gz"
+    },
+    {
+      "id": "liver_164",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_164.nii.gz"
+    },
+    {
+      "id": "liver_165",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_165.nii.gz"
+    },
+    {
+      "id": "liver_166",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_166.nii.gz"
+    },
+    {
+      "id": "liver_167",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_167.nii.gz"
+    },
+    {
+      "id": "liver_168",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_168.nii.gz"
+    },
+    {
+      "id": "liver_169",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_169.nii.gz"
+    },
+    {
+      "id": "liver_170",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_170.nii.gz"
+    },
+    {
+      "id": "liver_171",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_171.nii.gz"
+    },
+    {
+      "id": "liver_172",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_172.nii.gz"
+    },
+    {
+      "id": "liver_173",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_173.nii.gz"
+    },
+    {
+      "id": "liver_174",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_174.nii.gz"
+    },
+    {
+      "id": "liver_175",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_175.nii.gz"
+    },
+    {
+      "id": "liver_176",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_176.nii.gz"
+    },
+    {
+      "id": "liver_177",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_177.nii.gz"
+    },
+    {
+      "id": "liver_178",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_178.nii.gz"
+    },
+    {
+      "id": "liver_179",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_179.nii.gz"
+    },
+    {
+      "id": "liver_180",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_180.nii.gz"
+    },
+    {
+      "id": "liver_181",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_181.nii.gz"
+    },
+    {
+      "id": "liver_182",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_182.nii.gz"
+    },
+    {
+      "id": "liver_183",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_183.nii.gz"
+    },
+    {
+      "id": "liver_184",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_184.nii.gz"
+    },
+    {
+      "id": "liver_185",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_185.nii.gz"
+    },
+    {
+      "id": "liver_186",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_186.nii.gz"
+    },
+    {
+      "id": "liver_187",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_187.nii.gz"
+    },
+    {
+      "id": "liver_188",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_188.nii.gz"
+    },
+    {
+      "id": "liver_189",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_189.nii.gz"
+    },
+    {
+      "id": "liver_190",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_190.nii.gz"
+    },
+    {
+      "id": "liver_191",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_191.nii.gz"
+    },
+    {
+      "id": "liver_192",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_192.nii.gz"
+    },
+    {
+      "id": "liver_193",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_193.nii.gz"
+    },
+    {
+      "id": "liver_194",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_194.nii.gz"
+    },
+    {
+      "id": "liver_195",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_195.nii.gz"
+    },
+    {
+      "id": "liver_196",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_196.nii.gz"
+    },
+    {
+      "id": "liver_197",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_197.nii.gz"
+    },
+    {
+      "id": "liver_198",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_198.nii.gz"
+    },
+    {
+      "id": "liver_199",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_199.nii.gz"
+    },
+    {
+      "id": "liver_200",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_200.nii.gz"
+    },
+    {
+      "id": "liver_201",
+      "image": "data\\Task03_Liver\\Task_liver_dataset\\Task03_Liver\\Task03_Liver\\imagesTs\\liver_201.nii.gz"
+    }
+  ]
+}
